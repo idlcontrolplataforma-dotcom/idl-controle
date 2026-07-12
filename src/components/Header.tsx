@@ -176,7 +176,7 @@ export const Header: React.FC<HeaderProps> = ({
             >
               <div className="hidden lg:block text-right">
                 <p className="text-xs font-semibold text-slate-200 group-hover:text-violet-400 transition-colors">
-                  MATHEUS
+                  MAT
                 </p>
                 <p className="text-[10px] text-violet-400 font-semibold tracking-wide">
                   Diretor de Produção
