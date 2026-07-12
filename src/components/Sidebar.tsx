@@ -35,7 +35,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ activeTab, setActiveTab }) => 
               IDL CONTROL
             </h1>
             <p className="text-[10px] text-violet-400 font-semibold tracking-widest uppercase">
-              Production Control
+              Production
             </p>
           </div>
         </div>
